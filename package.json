@@ -9,10 +9,20 @@
     "test-jest": "^1.0.1",
     "ts-nest": "^0.0.9",
     "ts-node": "^10.9.2",
+    "type": "module",
     "typescript": "^5.4.5"
   },
   "devDependencies": {
     "@types/node": "^20.14.2",
     "fs": "^0.0.1-security"
-  }
+  },
+  "name": "livraria-poo",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000l\u0000i\u0000v\u0000r\u0000a\u0000r\u0000i\u0000a\u0000-\u0000p\u0000o\u0000o\u0000\r\u0000 \u0000#\u0000 \u0000l\u0000i\u0000v\u0000r\u0000a\u0000r\u0000i\u0000a\u0000-\u0000p\u0000o\u0000o\u0000\r\u0000 \u0000#\u0000 \u0000l\u0000i\u0000v\u0000r\u0000a\u0000r\u0000i\u0000a\u0000-\u0000p\u0000o\u0000o\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
 }
